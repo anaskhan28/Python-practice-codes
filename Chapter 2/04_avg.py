@@ -1,0 +1,6 @@
+a = input("Enter the number ")
+# b = input("Enter the 2nd number ")
+a = int(a)
+# b = int(b)
+multi= (a*a)
+print("The square of a  number is ", multi)
